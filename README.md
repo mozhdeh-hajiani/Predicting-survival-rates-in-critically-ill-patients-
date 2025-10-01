@@ -33,5 +33,5 @@ The final optimized model used a **Voting Classifier** to combine predictions fr
 
 ## Results
 
-The models were evaluated on the test set, and the best hyperparameters were selected. The evaluation metric used was the **F1 Score**:
+The models were evaluated on the test set, and the best hyperparameters were selected. The evaluation metric used was the **F1 Score**.
 
